@@ -8,6 +8,13 @@
         <required>false</required>
         <scale>0</scale>
         <trackHistory>false</trackHistory>
+
+        <fullName>Distance_To_Earth__c</fullName>
+        <externalId>false</externalId>
+        <label>Distance To Earth?</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
         <trackTrending>false</trackTrending>
         <type>Number</type>
         <unique>false</unique>
